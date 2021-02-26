@@ -64,3 +64,4 @@ __진하게2__
 ------
 
 ### 6. 이미지 가져오기
+![image](https://user-images.githubusercontent.com/29855697/109271698-3a42b100-7853-11eb-8cea-4e5d7de61a8b.png)
